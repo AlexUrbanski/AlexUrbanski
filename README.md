@@ -5,4 +5,4 @@
 ML or AI related in python, I am really focusing on learning more about those two concepts right now so i'd love to be a part of any beginner projects.
 - 📫 How to reach me ...
 Twitter: "_AlUrban_"
-Email: "alexurbanskiii@gmail.com"
+Email: "alexurbanskiii@gmail.com"_
